@@ -1,8 +1,8 @@
 <template>
   <q-page class="row items-center justify-evenly">
-    <example-component-one />
-    <example-component-two />
-    <example-component-three />
+    <example-component-one model-value="X" />
+    <example-component-two model-value="X" />
+    <example-component-three model-value="X" />
   </q-page>
 </template>
 
